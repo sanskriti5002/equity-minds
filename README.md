@@ -3,13 +3,6 @@
 
 ---
 
-## 🎥 Project Demo
-
-[![Watch the Demo](https://img.youtube.com/vi/oUOFlz9ysYQ/maxresdefault.jpg)](https://youtu.be/oUOFlz9ysYQ)
-
-▶ Click the image above to watch the full demo on YouTube.
-
----
 
 ## 🌟 Challenge Overview
 
@@ -115,10 +108,3 @@ EquityMind AI is not a generic chatbot. It is a **domain-specific reasoning syst
 - Adapts research based on user profile and preferences
 
 This aligns perfectly with the goals of the official **Financial & Market Research Agent challenge**.
-
----
-
-## 👨‍💻 Design & Developed By
-
-**Tea for Chat**  
-🌐 Portfolio: https://vaibhavrajportfolio.vercel.app
